@@ -12,7 +12,7 @@ This project is a simple web page that demonstrates the basics of HTML5. It feat
 * CSS3 (Basic styling)
 
 You can view the live project here:  
-[**Link to your GitHub Page**](https://github.com/Simiyuu/cat-photo-app)  
+https://github.com/Simiyuu/cat-photo-app
 
 
 
