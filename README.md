@@ -13,7 +13,7 @@ This project is a simple web page that demonstrates the basics of HTML5. It feat
 
 You can view the live project here:  
 [**Link to your GitHub Page**](https://github.com/Simiyuu/cat-photo-app)  
-*(Note: Replace the link above once you activate GitHub Pages)*
+
 
 
 * Challenge provided by [FreeCodeCamp](https://www.freecodecamp.org/).
